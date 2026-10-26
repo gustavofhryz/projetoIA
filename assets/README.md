@@ -2,6 +2,7 @@
 
 Esta pasta é destinada a recursos visuais do projeto.
 
+
 <img width="720" height="613" alt="MetasBot" src="https://github.com/user-attachments/assets/f755ed5e-2517-4db1-94d5-e216066a6763" />
 <img width="676" height="689" alt="Teste 1" src="https://github.com/user-attachments/assets/5de95570-5c77-4ad7-b33f-5cd7b6c5204d" />
 <img width="669" height="521" alt="Teste 2a" src="https://github.com/user-attachments/assets/65749f95-8f4b-4bd3-bd67-8fe68ce5bb8b" />

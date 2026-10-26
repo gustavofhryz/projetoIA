@@ -52,5 +52,5 @@ MetasBot Em Funcionamento:
 <img width="674" height="681" alt="Teste 4" src="https://github.com/user-attachments/assets/60c2e49b-e12f-468c-8c25-69d50807ffc0" />
 
 
-
+Desenvolvido por Gustavo como projeto prático para o bootcamp de Inteligência Artificial da DIO (Digital Innovation One).
 

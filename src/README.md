@@ -27,5 +27,6 @@ python-dotenv
 pip install -r requirements.txt
 
 # Rodar a aplicação
+python -m streamlit run src/app.py
 streamlit run app.py
 ```

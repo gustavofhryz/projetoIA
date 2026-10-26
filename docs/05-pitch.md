@@ -34,10 +34,8 @@ Ao contrário das ferramentas financeiras comuns que são meramente reativas, o 
 
 ## Checklist do Pitch
 
-- [x] Duração máxima de 3 minutos
 - [x] Problema claramente definido
 - [x] Solução demonstrada na prática
 - [x] Diferencial explicado
-- [x] Áudio e vídeo com boa qualidade
 
 ---

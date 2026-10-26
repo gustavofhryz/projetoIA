@@ -35,6 +35,7 @@ projetoA/
 ├── examples/        # Exemplos de referência da DIO
 ├── src/             # Código-fonte da aplicação (Streamlit / LLM)
 └── README.md        # Documentação principal do projeto
+```
 
 MetasBot Em Funcionamento:
 

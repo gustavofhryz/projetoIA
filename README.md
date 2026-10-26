@@ -2,7 +2,9 @@
 
 Assistente virtual inteligente desenvolvido para o desafio final do bootcamp da **DIO**, focado em **Metas Financeiras, ação, planeamento e acompanhamento quantitativo**.
 
-![Interface do MetasBot](assets/metasbot-interface.jpg)
+[Interface do MetasBot:
+
+<img width="720" height="613" alt="MetasBot" src="https://github.com/user-attachments/assets/5d57374e-a568-4238-b190-6df4e03ec0e2" />
 
 ---
 
@@ -34,7 +36,7 @@ projetoA/
 ├── src/             # Código-fonte da aplicação (Streamlit / LLM)
 └── README.md        # Documentação principal do projeto
 
-<img width="720" height="613" alt="MetasBot" src="https://github.com/user-attachments/assets/5d57374e-a568-4238-b190-6df4e03ec0e2" />
+MetasBot Em Funcionamento:
 
 <img width="669" height="521" alt="Teste 2a" src="https://github.com/user-attachments/assets/9b9d5d8b-1b52-4d01-b021-fcf1efd7ccb1" />
 

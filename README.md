@@ -1,6 +1,6 @@
 # MetasBot - Agente Financeiro Inteligente com IA Generativa
 
-Assistente virtual inteligente focado em **Metas Financeiras, ação, planeamento e acompanhamento quantitativo**.
+Assistente virtual inteligente focado em **Metas Financeiras, ação, planejamento e acompanhamento quantitativo**.
 
 Interface do MetasBot:
 

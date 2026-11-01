@@ -11,7 +11,7 @@ Interface do MetasBot:
 ## 🎯 Contexto do Projeto
 
 Os assistentes virtuais no setor financeiro estão a evoluir de simples chatbots reativos para agentes inteligentes e proativos. Este projeto concretiza a criação de um agente que utiliza IA Generativa para:
-* **Antecipar necessidades** de poupança e planeamento em vez de apenas responder a perguntas.
+* **Antecipar necessidades** de poupança e planejamento em vez de apenas responder a perguntas.
 * **Personalizar objetivos** de curto, médio e longo prazo (como casa, reserva de emergência e quitação de dívidas) com base no perfil do utilizador.
 * **Realizar cálculos matemáticos precisos** de quanto dinheiro é necessário poupar por mês.
 * **Garantir monitoramento, alertas de progresso e ajustes de rota** quando os gastos excedem o planejado.
